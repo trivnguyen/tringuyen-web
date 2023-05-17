@@ -82,7 +82,7 @@ sections:
         - title: Research Analyst
           company: Center for Computational Astrophysics, Flatiron Institute
           company_url: 'https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/'
-          company_logo:
+          company_logo: logo-cca
           location: New York, NY, USA
           date_start: '2022-08-22'
           date_end: '2023-01-25'
@@ -92,7 +92,7 @@ sections:
         - title: LIGO SURF Summer Intern
           company: California Institute of Technology
           company_url: 'https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/'
-          company_logo:
+          company_logo: logo-caltech
           location: Pasadena, CA, USA
           date_start: '2018-06-01'
           date_end: '2018-08-27'
@@ -102,13 +102,13 @@ sections:
         - title: Undergraduate Student
           company: University of Rochester
           company_url: 'https://www.pas.rochester.edu/'
-          company_logo:
+          company_logo: logo-roc
           location: Rochester, NY, USA
           date_start: '2015-08-20'
           date_end: '2019-05-20'
           description:
       design:
-        columns: '2'
+        columns: '1'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
