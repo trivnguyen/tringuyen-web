@@ -1,14 +1,31 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Ananke: Synthetic Gaia DR3 surveys
+summary: Constructing Gaia DR3 synthetic surveys from FIRE-2 simulations
 tags:
-  - Demo
-date: "2016-04-27T00:00:00Z"
+  - FIRE
+  - Gaia
+  - Synthetic Survey
+date: "2023-05-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+# external_link: https://example.org
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption:  Mock real-color image from a synthetic Gaia-like survey constructed from the FIRE m12i galaxy from Sanderson et al. (arXiv:1806.10564)
   focal_point: Smart
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
