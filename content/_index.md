@@ -79,14 +79,16 @@ sections:
           description: |2-
               Advisor: Lina Necib
               Thesis: Probing structure formation with machine learning.
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Research Analyst
+          company: Center for Computational Astrophysics, Flatiron Institute
+          company_url: 'https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/'
+          company_logo: org-gc
+          location: New York, NY, USA
+          date_start: '2022-08-22'
+          date_end: '2023-01-25'
+          description:
+              Advisor: Rachel Somerville
+              Project: Planting better dark matter merger trees with neural network.
     design:
       columns: '2'
   - block: accomplishments
