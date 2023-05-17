@@ -72,7 +72,7 @@ sections:
         - title: Ph.D. Candidate
           company: Massachusetts Institute of Technology
           company_url: 'https://space.mit.edu/'
-          company_logo: org-x
+          company_logo: org-gsdadas
           location: Cambridge, MA, USA
           date_start: '2019-06-01'
           date_end: ''
