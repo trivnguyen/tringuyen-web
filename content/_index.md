@@ -38,7 +38,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: About me
+      title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   # - block: features
@@ -59,7 +59,7 @@ sections:
   #         icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: My Academic Journey
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
