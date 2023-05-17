@@ -76,9 +76,9 @@ sections:
           location: Cambridge, MA, USA
           date_start: '2019-06-01'
           date_end: ''
-          description: |2-
-              Advisor: Lina Necib
-              Thesis: Probing structure formation with machine learning.
+          # description: |2-
+          #     Advisor: Lina Necib
+          #     Thesis: Probing structure formation with machine learning.
         - title: Research Analyst
           company: Center for Computational Astrophysics, Flatiron Institute
           company_url: 'https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/'
@@ -86,9 +86,9 @@ sections:
           location: New York, NY, USA
           date_start: '2022-08-22'
           date_end: '2023-01-25'
-          description:
-              Advisor: Rachel Somerville
-              Project: Planting better dark matter merger trees with neural network.
+          # description:
+              # Advisor: Rachel Somerville
+              # Project: Planting better dark matter merger trees with neural network.
     design:
       columns: '2'
   # - block: accomplishments
