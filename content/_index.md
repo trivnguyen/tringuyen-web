@@ -90,23 +90,23 @@ sections:
               * **Advisor**: Rachel Somerville
               * **Project**: Planting better dark matter merger trees with neural network
         - title: LIGO SURF Summer Intern
-            company: California Institute of Technology
-            company_url: 'https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/'
-            company_logo:
-            location: Pasadena, CA, USA
-            date_start: '2018-06-01'
-            date_end: '2018-08-27'
-            description: |2-
-                * **Advisor**: Michael Coughlin.
-                * **Project**: Extending the reach of gravitational-wave detectors with machine learning
+          company: California Institute of Technology
+          company_url: 'https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/'
+          company_logo:
+          location: Pasadena, CA, USA
+          date_start: '2018-06-01'
+          date_end: '2018-08-27'
+          description: |2-
+              * **Advisor**: Michael Coughlin.
+              * **Project**: Extending the reach of gravitational-wave detectors with machine learning
         - title: Undergraduate Student
-            company: University of Rochester
-            company_url: 'https://www.pas.rochester.edu/'
-            company_logo:
-            location: Rochester, NY, USA
-            date_start: '2015-08-20'
-            date_end: '2019-05-20'
-            description:
+          company: University of Rochester
+          company_url: 'https://www.pas.rochester.edu/'
+          company_logo:
+          location: Rochester, NY, USA
+          date_start: '2015-08-20'
+          date_end: '2019-05-20'
+          description:
       design:
         columns: '2'
   # - block: accomplishments
@@ -202,14 +202,14 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+    # design:
+      # columns: '1'
   - block: collection
     id: featured
     content:
@@ -258,8 +258,8 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: tnguy.at. mit.edu
+      phone:
       appointment_url: 'https://calendly.com'
       address:
         street: 450 Serra Mall
