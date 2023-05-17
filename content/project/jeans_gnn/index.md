@@ -11,7 +11,7 @@ date: '2023-05-17T00:00:00Z'
 external_link: 'https://arxiv.org/abs/2208.12825'
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: "The Large Magellanic Cloud. Credit: Eckhard Slawik (e.slawik@gmx.net)"
   focal_point: Smart
 url_code: 'https://github.com/trivnguyen/JeansGNN'
 url_pdf: 'https://arxiv.org/pdf/2208.12825.pdf'

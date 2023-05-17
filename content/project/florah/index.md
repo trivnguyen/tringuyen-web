@@ -12,10 +12,10 @@ date: '2023-05-17T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: "Galaxy Merger Trees. Credit: ESO."
   focal_point: Smart
 url_code: ''
-url_pdf: 'https://ml4astro.github.io/icml2022/assets/38.pdf'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
