@@ -82,7 +82,7 @@ sections:
         - title: Research Analyst
           company: Center for Computational Astrophysics, Flatiron Institute
           company_url: 'https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/'
-          company_logo: logo-cca
+          company_logo:
           location: New York, NY, USA
           date_start: '2022-08-22'
           date_end: '2023-01-25'
