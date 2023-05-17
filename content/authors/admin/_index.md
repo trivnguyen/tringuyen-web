@@ -93,5 +93,6 @@ Currently, I'm working with [Prof. Lina Necib](https://lnecib.com/) at MIT. From
 4. **Constructing Synthetic Gaia DR3 Surveys:** Creating synthetic Gaia DR3 surveys from Milky Way-like galaxies in the FIRE simulation.
 
 Feel free to explore my work and learn more about the exciting discoveries in astrophysics and cosmology!
+
 My CV (including list of publications) can be found [here](uploads/cv.pdf).
 {style="text-align: justify;"}

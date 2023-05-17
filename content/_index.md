@@ -97,7 +97,7 @@ sections:
           date_start: '2018-06-01'
           date_end: '2018-08-27'
           description: |2-
-              * **Advisor**: Michael Coughlin.
+              * **Advisor**: Michael Coughlin
               * **Project**: Extending the reach of gravitational-wave detectors with machine learning
         - title: Undergraduate Student
           company: University of Rochester
@@ -106,7 +106,9 @@ sections:
           location: Rochester, NY, USA
           date_start: '2015-08-20'
           date_end: '2019-05-20'
-          description:
+          description: |2-
+              * **Advisor**: Segev BenZvi, Regina Demina
+              * **Project**: Efficiently calculating the galaxy two-point correlations using K-D tree
     design:
       columns: '2'
   # - block: accomplishments
@@ -178,7 +180,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: My Current Projects
       filters:
         folders:
           - project
@@ -198,7 +200,7 @@ sections:
           tag: Simulations
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
@@ -248,8 +250,8 @@ sections:
   # - block: tag_cloud
     # content:
       # title: Popular Topics
-    design:
-      columns: '2'
+    # design:
+      # columns: '2'
   - block: contact
     id: contact
     content:

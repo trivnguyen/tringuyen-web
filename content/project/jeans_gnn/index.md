@@ -23,7 +23,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 Dwarf galaxies are compact, dark matter-dominated galaxies that are often found within the Milky Way. Due to their minimal amount of visible matter, they serve as ideal testing grounds for detecting dark matter (DM). By understanding the distribution of DM in these galaxies, we can gain insights into the microphysical interactions of DM that influence the formation and evolution of structures in our Universe. However, current observations and analysis techniques, such as Jeans dynamical modeling, have been unable to accurately determine the precise DM density profiles in these systems.
