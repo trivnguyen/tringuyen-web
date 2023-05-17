@@ -1,6 +1,6 @@
 ---
 title: Dark Matter Density Profiles in Dwarf Galaxies
-summary:
+summary: Uncovering the dark matter density profiles of dwarf galaxies with simulation-based inference and graph neural networks
 tags:
   - Dark Matter
   - Deep Learning
@@ -8,13 +8,13 @@ tags:
 date: '2023-05-17T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://arxiv.org/abs/2208.12825'
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-url_code: ''
-url_pdf: 'https://ml4astro.github.io/icml2022/assets/38.pdf'
+url_code: 'https://github.com/trivnguyen/JeansGNN'
+url_pdf: 'https://arxiv.org/pdf/2208.12825.pdf'
 url_slides: ''
 url_video: ''
 
