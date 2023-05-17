@@ -89,7 +89,7 @@ sections:
           description: |2-
               * Advisor: Rachel Somerville
               * Project: Planting better dark matter merger trees with neural network.
-          - title: LIGO SURF Intern
+          - title: LIGO SURF Summer Intern
               company: California Institute of Technology
               company_url: 'https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/'
               company_logo: org-x
