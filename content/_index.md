@@ -76,37 +76,37 @@ sections:
           location: Cambridge, MA, USA
           date_start: '2019-06-01'
           date_end: ''
-          description: |2-
-              * Advisor: Lina Necib
-              * Thesis: Probing structure formation with machine learning.
+          # description: |2-
+          #     * Advisor: Lina Necib
+          #     * Thesis: Probing structure formation with machine learning.
         - title: Research Analyst
           company: Center for Computational Astrophysics, Flatiron Institute
           company_url: 'https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/'
-          company_logo: logo-cca
+          company_logo:
           location: New York, NY, USA
           date_start: '2022-08-22'
           date_end: '2023-01-25'
-          description: |2-
-              * Advisor: Rachel Somerville
-              * Project: Planting better dark matter merger trees with neural network.
-          - title: LIGO SURF Summer Intern
-              company: California Institute of Technology
-              company_url: 'https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/'
-              company_logo: org-x
-              location: Pasadena, CA, USA
-              date_start: '2018-06-01'
-              date_end: '2018-08-27'
-              description: >
-                **Advisor**: Michael Coughlin.
-                **Project**: Extending the reach of gravitational-wave detectors with machine learning
-          - title: Undergraduate Student
-            company: University of Rochester
-            company_url: 'https://www.pas.rochester.edu/'
-            company_logo: org-x
-            location: Rochester, NY, USA
-            date_start: '2015-08-20'
-            date_end: '2019-05-20'
-            description:
+          # description: |2-
+          #     * Advisor: Rachel Somerville
+          #     * Project: Planting better dark matter merger trees with neural network.
+        # - title: LIGO SURF Summer Intern
+        #     company: California Institute of Technology
+        #     company_url: 'https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/'
+        #     company_logo: org-x
+        #     location: Pasadena, CA, USA
+        #     date_start: '2018-06-01'
+        #     date_end: '2018-08-27'
+        #     description: >
+        #         **Advisor**: Michael Coughlin.
+        #         **Project**: Extending the reach of gravitational-wave detectors with machine learning
+        # # - title: Undergraduate Student
+        #     company: University of Rochester
+        #     company_url: 'https://www.pas.rochester.edu/'
+        #     company_logo: org-x
+        #     location: Rochester, NY, USA
+        #     date_start: '2015-08-20'
+        #     date_end: '2019-05-20'
+        #     description:
         design:
           columns: '2'
   # - block: accomplishments
