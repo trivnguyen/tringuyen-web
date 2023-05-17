@@ -245,9 +245,9 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
+  # - block: tag_cloud
+    # content:
+      # title: Popular Topics
     design:
       columns: '2'
   - block: contact
@@ -255,10 +255,10 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      # text: |-
+        # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: tnguy.at. mit.edu
+      email: tnguy at mit.edu
       phone:
       appointment_url:
       # address:
@@ -296,5 +296,5 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
-      columns: '2'
+      columns: '1'
 ---
