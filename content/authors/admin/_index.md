@@ -86,7 +86,7 @@ Currently, I'm working with [Prof. Lina Necib](https://lnecib.com/) at MIT. From
 
 1. **Inferring Dark Matter Density Profiles:** Applying graph-based simulation-based inference to infer the dark matter density profiles of dwarf galaxies [[arxiv](https://arxiv.org/abs/2208.12825)].
 
-2. **Generating Galaxy Merger Trees:** Generating galaxy merger trees using recurrent flow-based generative models
+2. **Generating Dark Matter Halo Merget Trees:** Generating dark matter halo merger trees using recurrent flow-based generative models [[icml](uploads/florah_icml_camready.pdf)].
 
 3. **Characterizing Milky Way Accretion History:** Using kinematics of accreted stars to characterize the galaxy accretion history of the Milky Way.
 
