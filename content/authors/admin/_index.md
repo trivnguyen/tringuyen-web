@@ -27,7 +27,8 @@ bio: Tri is a Ph.D. Candidate at MIT Kavli Institute for Astrophysics and Space 
 # Interests to show in About widget
 interests:
   - Hierarchical Structure Formation
-  - Dark Matter in Dwarf Galaxies
+  - Structure of Dark Matter Halos
+  - Simulation-based Inference
   - Deep Learning
 
 # Education to show in About widget
@@ -78,21 +79,23 @@ highlight_name: true
 ---
 ## Hello, hello! 👋
 
-I'm a Ph.D. Candidate at the [MIT Kavli Institute for Astrophysics and Space Research](https://space.mit.edu/) passionate about studying the formation and evolution of structure in the Universe. My research involves developing machine learning techniques to analyze large cosmological simulations and observational data.
+I'm a Ph.D. Candidate at the [MIT Kavli Institute for Astrophysics and Space Research](https://space.mit.edu/) passionate about studying the formation and evolution of structure in the Universe. My research involves developing machine learning techniques to analyze cosmological simulations and data from astronomical surveys.
 
-Currently, I'm working with [Prof. Lina Necib](https://lnecib.com/) at MIT. From August 2022 to January 2023, I was a Pre-Doctoral Researcher at the Center for Computational Astrophysics (CCA) at the Simons Foundation, collaborating with [Prof. Rachel Sommerville](https://www.simonsfoundation.org/people/rachel-somerville/) in the Galaxy Formation group.
+Currently, I'm working with [Prof. Lina Necib](https://lnecib.com/) at MIT. From August 2022 to January 2023, I was a Pre-Doctoral Researcher at the Center for Computational Astrophysics (CCA) at the Simons Foundation, collaborating with [Prof. Rachel Somerville](https://www.simonsfoundation.org/people/rachel-somerville/) in the Galaxy Formation group.
 
-### Projects I'm Involved In:
+### Projects I'm working on:
 
-1. **Inferring Dark Matter Density Profiles:** Applying graph-based simulation-based inference to infer the dark matter density profiles of dwarf galaxies [[arxiv](https://arxiv.org/abs/2208.12825)].
+1. Infer the dark matter density profiles of dwarf galaxies using graph neural networks and simulation-based inference [[arxiv](https://arxiv.org/abs/2208.12825)].
 
-2. **Generating Dark Matter Halo Merger Trees:** Generating dark matter halo merger trees using recurrent flow-based generative models [[icml](uploads/florah_icml_camready.pdf)].
+2. Generating dark matter halo merger trees using recurrent flow-based generative models [[icml](uploads/florah_icml_camready.pdf)].
 
-3. **Characterizing Milky Way Accretion History:** Using kinematics of accreted stars to characterize the galaxy accretion history of the Milky Way.
+3. Creating synthetic Gaia DR3 surveys from Milky Way-like galaxies in the FIRE simulation [[arxiv](https://arxiv.org/abs/2306.16475)].
 
-4. **Constructing Synthetic Gaia DR3 Surveys:** Creating synthetic Gaia DR3 surveys from Milky Way-like galaxies in the FIRE simulation.
+4. Using kinematics of accreted stars to characterize the galaxy accretion history of the Milky Way.
 
-Feel free to explore my work and learn more about the exciting discoveries in astrophysics and cosmology!
+5. Simulation-based inference to understand structure of stellar streams. 
+
+Feel free to explore my work and learn more about the exciting ways that machine learning can be used to understand the Universe!
 
 My CV (including list of publications) can be found [here](uploads/cv.pdf).
 {style="text-align: justify;"}
