@@ -79,7 +79,7 @@ highlight_name: true
 ---
 ## Hello, hello! 👋
 
-I'm a Ph.D. Candidate at the [MIT Kavli Institute for Astrophysics and Space Research](https://space.mit.edu/). I seek understanding the nature of DM and its role in galaxy formation and evolution, especially at the smallest scales. My research involves developing machine learning techniques to analyze cosmological simulations and data from astronomical surveys.
+I'm a Ph.D. Candidate at the [MIT Kavli Institute for Astrophysics and Space Research](https://space.mit.edu/) and the NSF AI Institute for Artificial Intelligence and Fundamental Interactions ([IAIFI](https://iaifi.org/)). I seek to understand the nature of Dark Matter and its role in Galaxy Formation and Evolution, especially at the smallest scales. My research involves developing machine learning techniques to analyze cosmological simulations and data from astronomical surveys.
 
 Currently, I'm working with [Prof. Lina Necib](https://lnecib.com/) at MIT. From August 2022 to January 2023, I was a Pre-Doctoral Researcher at the Center for Computational Astrophysics (CCA) at the Simons Foundation, collaborating with [Prof. Rachel Somerville](https://www.simonsfoundation.org/people/rachel-somerville/) in the Galaxy Formation group.
 
@@ -93,7 +93,7 @@ Currently, I'm working with [Prof. Lina Necib](https://lnecib.com/) at MIT. From
 
 4. Using kinematics of accreted stars to characterize the galaxy accretion history of the Milky Way.
 
-5. Simulation-based inference to understand structure of stellar streams.
+5. Simulation-based inference to understand structure of stellar streams with [Prof. Nora Shipp](https://norashipp.github.io/).
 
 Feel free to explore my work and learn more about the exciting ways that machine learning can be used to understand the Universe!
 
