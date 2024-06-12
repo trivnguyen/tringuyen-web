@@ -83,7 +83,7 @@ I'm a Ph.D. Candidate at the [MIT Kavli Institute for Astrophysics and Space Res
 
 Currently, I'm working with [Prof. Lina Necib](https://lnecib.com/) at MIT. From August 2022 to January 2023, I was a Pre-Doctoral Researcher at the Center for Computational Astrophysics (CCA) at the Simons Foundation, collaborating with [Prof. Rachel Somerville](https://www.simonsfoundation.org/people/rachel-somerville/) in the Galaxy Formation group.
 
-### Projects I'm working on:
+### Projects I'm working on :D
 
 1. Inferring the dark matter density profiles of dwarf galaxies using graph neural networks and simulation-based inference [[arxiv](https://arxiv.org/abs/2208.12825)].
 
